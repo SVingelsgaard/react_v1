@@ -7,3 +7,4 @@ def index(request):
     return render(request, 'frontend/templates/index.html')
     #return HttpResponse("test")
 
+ 
